@@ -21,3 +21,8 @@ It demonstrates interaction with different web elements such as text fields, rad
 ---
 
 ## 📂 Project Structure
+form-submission-automation/
+│── form_submission.py
+│── requirements.txt
+│── README.md
+
